@@ -6,7 +6,8 @@ email = str(input("Esta ferramenta realiza a validação de notas na disciplina 
 nota = float(input("Digite a sua última nota: "))
 
 if nota > 8.5:
-    print("Nota válida. O convite foi enviado para o e-mail: {}".format(email))
+    # print("Nota válida. O convite foi enviado para o e-mail: {}".format(email))
+    print(f"Nota válida. O convite foi enviado para o e-mail: {email}")
 
 # else:
 #     print("Você não é elegível para receber o convite.")
