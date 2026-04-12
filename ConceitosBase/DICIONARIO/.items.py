@@ -4,7 +4,7 @@ produto = {
     "fornecedores":["Fornecedor Supimpa", "Fornecedor Maneiro", "Fornecedor Legal"]
 }
 
-#Utilize o '.items()' para buscar todos os itens ddicionário
+#Utilize o '.items()' para buscar todos os itens do dicionário
 print(produto.items())
 
 for chave, valor in produto.items():

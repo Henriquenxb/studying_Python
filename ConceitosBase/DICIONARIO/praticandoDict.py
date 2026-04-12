@@ -1,5 +1,7 @@
 
 #Um dicionário(dict) é uma estrutura formada por "<Chave> : <Valor>", ou seja, ela associa um valor a outro
+#Não é possível adicionar <chaves> com o mesmo nome, já os <valores> podem ser repitidos dentro do dicionário.
+#Se inserir a mesma chave outra vez, os valores serão sobrepostos
 
 #Para chamar um dicionário usamos "{}"
 dicionarioCDZ = {
